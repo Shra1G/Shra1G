@@ -4,7 +4,7 @@
 
 ### About me?  
 
-- I'm a sophomore from IIT (BHU) Varanasi, India
+- I'm a junior undergraduate from IIT (BHU) Varanasi, India
 -  My interests include development, finance, product management and exploring anything literally.
 - Currently, trying my hands at anything and everything to find what excites me.
 -   My hobbies include listening to music, playing badmintion, swimming, watching movies, reading about stuff.
