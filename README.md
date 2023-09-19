@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/shravan-g"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>&nbsp;&nbsp;
 <a href="https://github.com/Shra1G"><img src="https://img.icons8.com/color/48/000000/github.png"/> </a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/shravan.g.49"><img src="https://img.icons8.com/color/48/000000/facebook.png"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/s_h_r_a_v_a_n_g"><img height = "45" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/shravan._.g"><img height = "45" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/></a>&nbsp;&nbsp;
 </p>
 
 ### Languages and Tech
