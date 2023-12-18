@@ -1,4 +1,4 @@
-# How ya doin', I'm Shravan👋
+# Hey, I'm Shravan👋
 #### Call me G
 ---
 
