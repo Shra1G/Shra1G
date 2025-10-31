@@ -1,50 +1,54 @@
-# Hey, I'm Shravan👋
-#### Call me G
+# 👋 Hey there, I'm Shravan — but you can call me G!  
+
+I'm a **Software Development Engineer at <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Target_logo.svg" height="60" style="vertical-align: middle; margin: 0 3px;"/>** and an alumnus of **IIT (BHU), Varanasi**.  
+
+I enjoy building scalable products and experimenting with tech that makes life simpler.  
+When I'm not coding, you’ll find me at the gym 🏋️, playing badminton 🏸, swimming 🏊, or diving deep into topics like **psychology, finance, and film** 🎬 — preferably with a **caffè mocha ☕** in hand.  
+
 ---
 
-### About me?  
+## Tech Toolbox
 
-- I'm a software development engineer working at Target, and an alumnus of IIT (BHU) Varanasi, India
-- My interests include development, finance, product management, and discussing movies.
-- My hobbies, apart from hitting the gym, include listening to music, playing badminton, swimming, watching movies, and reading/watching about stuff.
-- Off topic - I love reading about psychology and having a caffè mocha every now and then.
+**Languages:**  
+C, C++, Java, Python, R, SQL, HTML, CSS, JavaScript  
 
+**Frameworks & Libraries:**  
+Spring Boot, React.js, Node.js, Express.js, PySpark, Bootstrap, Sass  
 
-### Get in touch with me
+**Databases & Tools:**  
+MongoDB, MySQL, Git, GitHub  
+
+---
+## Projects & Work Highlights  
+
+- Worked on **high-impact systems at Target** that contributed to **saving millions of dollars** through optimised workflows and system efficiency improvements.  
+- Analysed large-scale datasets using **PySpark** and **Python**, uncovering actionable insights that drove better decision-making and performance optimisation.  
+- Developed and maintained **scalable full-stack applications** with a focus on clean architecture, reusability, and great user experience.  
+- Built **interactive UI components and dashboards** using **React** and **Spring Boot**, enabling smooth user interaction and real-time data visualization.  
+- Collaborated cross-functionally with product and analytics teams to design data-driven solutions and automation pipelines, improving operational throughput.  
+
+---
+
+## Education  
+
+**B.Tech + M.Tech | Indian Institute of Technology (BHU), Varanasi**
+
+---
+
+## Let’s Connect  
+
 <p>
-<a href="https://www.linkedin.com/in/shravan-g"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>&nbsp;&nbsp;
-<a href="https://github.com/Shra1G"><img src="https://img.icons8.com/color/48/000000/github.png"/> </a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/shravan.g.49"><img src="https://img.icons8.com/color/48/000000/facebook.png"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/shravan._.g"><img height = "45" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shravan-g"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Shra1G"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/shravan.g.49"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/shravan._.g"><img height="45" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/></a>
 </p>
 
-### Languages and Tech
-<div>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/git.svg"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react/react.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/nodejs.svg"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>&nbsp;&nbsp;
+---
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/r.svg"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;&nbsp;
-</div>
-<br>
-<br>
+## Quote I Live By  
 
-<br>
-<br>
+> _“Stay hungry. Stay foolish.”_  
+> — **Steve Jobs**
 
-<div>
-<em><b>"Stay hungry. Stay foolish.”</b> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;― Steve Jobs"</em>
-</div>
+---
