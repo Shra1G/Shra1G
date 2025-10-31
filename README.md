@@ -4,10 +4,9 @@
 
 ### About me?  
 
-- I'm a senior undergraduate from IIT (BHU) Varanasi, India
--  My interests include development, finance, product management and exploring anything literally.
-- Currently, trying my hands at anything and everything to find what excites me.
--   My hobbies include listening to music, playing badmintion, swimming, watching movies, reading about stuff.
+- I'm a software development engineer working at Target, and an alumnus of IIT (BHU) Varanasi, India
+- My interests include development, finance, product management, and discussing movies.
+- My hobbies, apart from hitting the gym, include listening to music, playing badminton, swimming, watching movies, and reading/watching about stuff.
 - Off topic - I love reading about psychology and having a caffè mocha every now and then.
 
 
@@ -21,6 +20,7 @@
 
 ### Languages and Tech
 <div>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
@@ -29,12 +29,14 @@
 <code><img height="50" src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/git.svg"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react/react.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/r.svg"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/nodejs.svg"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>&nbsp;&nbsp;
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/r.svg"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;&nbsp;
 </div>
 <br>
